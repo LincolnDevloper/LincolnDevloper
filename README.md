@@ -12,7 +12,7 @@
 - ⚡ Fun fact: ...
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LincolnDevloper&theme=chartreuse-dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LincolnDevloper&theme=chartreuse-dark&show_icons=true" />
 </a>
 
 
