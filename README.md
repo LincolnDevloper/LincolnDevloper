@@ -13,7 +13,7 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LincolnDevloper&theme=chartreuse-dark&show_icons=true&locale=pt-br" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LincolnDevloper&theme=chartreuse-dark&show_icons=true&locale=pt-br" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LincolnDevloper&theme=chartreuse-dark&show_icons=true&locale=pt-br" />
 </a>
 
 
@@ -40,4 +40,4 @@
 
 ### Teste
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LincolnDevloper)](https://github.com/anuraghazra/github-readme-stats)
+
