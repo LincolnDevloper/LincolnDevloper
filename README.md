@@ -11,8 +11,8 @@ Sempre tive muito interesse em sempre estar atento as novas tecnologias que surg
 
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LincolnDevloper&theme=chartreuse-dark&show_icons=true&locale=pt-br&rank_icon=github" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LincolnDevloper&theme=chartreuse-dark&show_icons=true&locale=pt-br&layout=compact" />
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=LincolnDevloper&theme=chartreuse-dark&show_icons=true&locale=pt-br&rank_icon=github" />
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LincolnDevloper&theme=chartreuse-dark&show_icons=true&locale=pt-br&layout=compact" />
 </a>
 
 
