@@ -17,7 +17,7 @@
   <img align="center" title="NodeJs" alt="LincolnDev-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" title="Linux" alt="LincolnDev-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" title="MySQL" alt="LincolnDev-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="right" border-radius="30px" title="Mr. Robot" alt="Elliot Alderson from Mr. Robot" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTlyY2pwNzhyNHBtcjRwbGV5eHdqZW5ma3R1dXdpMWJ1NzF2bmd5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WiM5K1e9MtEic/giphy.gif">
+  <img align="right" style="border-radius: 30px;" title="Mr. Robot" alt="Elliot Alderson from Mr. Robot" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTlyY2pwNzhyNHBtcjRwbGV5eHdqZW5ma3R1dXdpMWJ1NzF2bmd5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WiM5K1e9MtEic/giphy.gif">
   
 </div>
 
