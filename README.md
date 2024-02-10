@@ -1,13 +1,15 @@
 ### Seja Bem-Vindo ao meu Perfil do Github!!! 👋
 ##
 <br>
-Olá, Me chamo <b>Lincoln</b>, sou um desenvolvedor <b>Front-End</b>, tenho 16 anos e estou atualmente estudando a área de <b>Back-End</b>.
+Olá, Me chamo <b>Lincoln</b>, sou um desenvolvedor <b>Front-End</b>, tenho 16 anos.
 Sou apaixonado na área de Tecnologia da Informação, tanto que estudo outras áreas como <b>Back-End</b>, <b>Desenvolvimento Mobile</b>, <b>Segurança da Informação</b>, <b>IA (Inteligência Artificial)</b>, <b>Arduino</b>.<br>
 Sempre tive muito interesse em sempre estar atento as novas tecnologias que surgem atualmente, que estão mudando a forma de interação do usuário e impactando cada vez mais no nosso cotidiano.
 
 ##
 
-- 
+- 👨‍💻 <b>Desenvolvedor Web Front-End</b>
+- 📒 <b>Estudando Frameworks e Back-End</b>
+- ❤ <b>Tendo um relacionamento sério com a: Programação</b>
 
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
