@@ -1,7 +1,9 @@
 ### Seja Bem-Vindo ao meu Perfil do Github!!! 👋
 ##
 <br>
-Olá, Me chamo <b>Lincoln</b>, Sou um desenvolvedor <b>Front-End</b> e estou estudando a área de <b>Back-End</b>. Sou apaixonado na área de Tecnologia da Informação, tanto que estudo outras áreas como Back-End, Desenvolvimento Mobile, Segurança da Informação, IA (Inteligência Artificial), Arduino, pois tenho muita vontade de acompanhar e aprender as novas tecnologias que surgem atualmente.
+Olá, Me chamo <b>Lincoln</b>, Sou um desenvolvedor <b>Front-End</b> e estou estudando a área de <b>Back-End</b>.<br>
+Sou apaixonado na área de Tecnologia da Informação, tanto que estudo outras áreas como <b>Back-End</b>, <b>Desenvolvimento Mobile</b>, <b>Segurança da Informação</b>, <b>IA (Inteligência Artificial)</b>, <b>Arduino</b>.<br>
+Sempre tive muito interesse em sempre estar atento as novas tecnologias que surgem atualmente, que estão mudando a forma de interação do usuário e impactando cada vez mais no nosso cotidiano.
 
 - 😄 Pronouns: ...
 
