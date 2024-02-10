@@ -46,6 +46,7 @@ Sempre tive muito interesse em sempre estar atento as novas tecnologias que surg
 Unity, mal sabia modelar e muito menos programar... <br>
 E então um dia, tudo ficou mais interessante quando por meio de meus pais, eu descobri este livro e foi aí que um novo mundo apareceu diante dos meus olhos: A programação. <br>
   Eu sempre vi a programação como um mundo alternativo, onde eu tenho o poder infinito de criar tudo o que eu imaginasse, mas não é apenas a programação que tem esse poder, eu descobri vários outros mundos dentro da computação que pode ser explorado.
+  Desistir desses universos seria como desistir de uma parte de mim. Mas desistir para mim, nunca foi uma opção...
   
 </div>
 
