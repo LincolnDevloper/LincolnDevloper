@@ -1,11 +1,13 @@
 ### Seja Bem-Vindo ao meu Perfil do Github!!! 👋
 ##
 <br>
-Olá, Me chamo <b>Lincoln</b>, Sou um desenvolvedor <b>Front-End</b> e estou estudando a área de <b>Back-End</b>.<br>
+Olá, Me chamo <b>Lincoln</b>, sou um desenvolvedor <b>Front-End</b>, tenho 16 anos e estou atualmente estudando a área de <b>Back-End</b>.
 Sou apaixonado na área de Tecnologia da Informação, tanto que estudo outras áreas como <b>Back-End</b>, <b>Desenvolvimento Mobile</b>, <b>Segurança da Informação</b>, <b>IA (Inteligência Artificial)</b>, <b>Arduino</b>.<br>
 Sempre tive muito interesse em sempre estar atento as novas tecnologias que surgem atualmente, que estão mudando a forma de interação do usuário e impactando cada vez mais no nosso cotidiano.
 
-- 😄 Pronouns: ...
+##
+
+- 
 
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -32,5 +34,9 @@ Sempre tive muito interesse em sempre estar atento as novas tecnologias que surg
   <a href="https://instagram.com/luminadiv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:lincolnhokage2007@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lincolndev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
+
+##
+### Um pouco mais sobre mim 👨‍💻
+<br>
+Estudo programação desde os 10 anos de Idade, minha primeira linguagem foi a linguagem C, pois comecei através de um livro que apenas tinha essa linguagem como base.
