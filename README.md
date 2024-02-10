@@ -39,4 +39,11 @@ Sempre tive muito interesse em sempre estar atento as novas tecnologias que surg
 ##
 ### Um pouco mais sobre mim 👨‍💻
 <br>
-Estudo programação desde os 10 anos de Idade, minha primeira linguagem foi a linguagem C, pois comecei através de um livro que apenas tinha essa linguagem como base.
+<div>
+  Estudo programação desde os 10 anos de Idade, minha primeira linguagem foi a linguagem C, pois comecei através de um livro de uma faculdade que apenas tinha essa linguagem como base.    Sempre tive o interesse em computadores desde de pequeno, quando as páginas em HTML eram simples, os jogos eram feitos em flash. Na época eu sempre tive curiosidade de fazer jogos na
+Unity, mal sabia modelar e muito menos programar... <br>
+E então um dia, tudo ficou mais interessante quando por meio de meus pais, eu descobri este livro e foi aí que um novo mundo apareceu diante dos meus olhos: A programação. <br>
+  Eu sempre vi a programação como um mundo alternativo, onde eu tenho o poder infinito de criar tudo o que eu imaginasse, mas não é apenas a programação que tem esse poder, eu descobri vários outros mundos dentro da computação que pode ser explorado.
+  
+</div>
+
