@@ -1,8 +1,8 @@
 ### Seja Bem-Vindo ao meu Perfil aqui no Github!!! 👋
 ##
-<br>
+
 Olá, Me chamo Lincoln, Sou um desenvolvedor Front-End
-<br>
+
 - 😄 Pronouns: ...
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
