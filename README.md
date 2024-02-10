@@ -1,10 +1,11 @@
-### Seja Bem-Vindo ao meu Perfil aqui no Github!!! 👋
+### Seja Bem-Vindo ao meu Perfil do Github!!! 👋
 ##
-
-Olá, Me chamo Lincoln, Sou um desenvolvedor Front-End
+<br>
+Olá, Me chamo <b>Lincoln</b>, Sou um desenvolvedor <b>Front-End</b> e estou estudando a área de <b>Back-End</b>. Sou apaixonado na área de Tecnologia da Informação, tanto que estudo outras áreas como Back-End, Desenvolvimento Mobile, Segurança da Informação, IA (Inteligência Artificial), Arduino, pois tenho muita vontade de acompanhar e aprender as novas tecnologias que surgem atualmente.
 
 - 😄 Pronouns: ...
 
+<br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LincolnDevloper&theme=chartreuse-dark&show_icons=true&locale=pt-br&rank_icon=github" />
   <img height=200  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LincolnDevloper&theme=chartreuse-dark&show_icons=true&locale=pt-br&layout=compact" />
