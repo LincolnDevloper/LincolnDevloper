@@ -8,7 +8,7 @@ Sempre tive muito interesse em sempre estar atento as novas tecnologias que surg
 ##
 
 - 👨‍💻 <b>Desenvolvedor Web Front-End</b>
-- 🌱 <b>Estudando React</b>
+- 🌱 <b>Estudando Vue.Js</b>
 - ♂️ <b>Pronome: Ele/Dele</b>
 - ❤ <b>Tendo um relacionamento sério com a: Programação</b>
 
