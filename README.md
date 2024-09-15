@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+
 ### Seja Bem-Vindo ao meu Perfil do Github!!! 👋
 ##
 <br>
@@ -8,7 +10,7 @@ Sempre tive muito interesse em sempre estar atento as novas tecnologias que surg
 ##
 
 - 👨‍💻 <b>Desenvolvedor Web Front-End</b>
-- 🌱 <b>Estudando Vue.Js</b>
+- 🌱 <b>Estudando React.Js + Vite + Tailwind CSS</b>
 - ♂️ <b>Pronome: Ele/Dele</b>
 - ❤ <b>Tendo um relacionamento sério com a: Programação</b>
 
@@ -23,8 +25,9 @@ Sempre tive muito interesse em sempre estar atento as novas tecnologias que surg
   <img align="center" title="HTML" alt="LincolnDev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" title="CSS" alt="LincolnDev-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" title="JavaScript" alt="LincolnDev-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" title="Vue.JS" alt="LincolnDev-Vue.JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" title="NodeJs" alt="LincolnDev-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" title="React" alt="LincolnDev-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></img>
+  <img align="center" title="Vite.JS" alt="LincolnDev-ViteJs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg">
+  <img align="center" title="TailwindCSS" alt="LincolnDev-TailwindCSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" title="Linux" alt="LincolnDev-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" title="Git" alt="LincolnDev-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" title="GitHub" alt="LincolnDev-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
@@ -41,6 +44,8 @@ Sempre tive muito interesse em sempre estar atento as novas tecnologias que surg
   <a href="https://instagram.com/luminadiv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:lincolnhokage2007@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lincolndev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a aria-label="Chat on WhatsApp" href="https://wa.me/5561981624057"><img max-width="100%" height="30px" alt="Chat on WhatsApp" src="https://scontent.whatsapp.net/v/t39.8562-34/420077459_703742575180618_3955965302853713788_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=aEbtmerznYEQ7kNvgH4kmIc&_nc_ht=scontent.whatsapp.net&oh=01_Q5AaIO34fJTIPRU8ixjhHdHw_FyN6EXT7_nVDP7CoQ18DfF0&oe=66ED2CE8" target="_blank" />
+<a />
 </div>
 
 ##
