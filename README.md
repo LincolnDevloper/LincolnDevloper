@@ -13,6 +13,7 @@ Sempre tive muito interesse em sempre estar atento as novas tecnologias que surg
 - 🌱 <b>Estudando React.Js + Vite + Tailwind CSS</b>
   + <b>React Native + Typescript + NativeWind</b>
 - ❤ <b>Tendo um relacionamento sério com a: Programação</b>
+- 🌐 <b>Amo a área de cybersecurity</b>
 
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
