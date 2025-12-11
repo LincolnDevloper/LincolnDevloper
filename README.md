@@ -45,7 +45,7 @@ Sempre tive muito interesse em sempre estar atento as novas tecnologias que surg
   <a href="https://instagram.com/luminadiv" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:lincolnhokage2007@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lincolndev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a aria-label="Chat on WhatsApp" href="https://wa.me/5561981624057"><img max-width="100%" height="30px" alt="Chat on WhatsApp" src="https://scontent.whatsapp.net/v/t39.8562-34/420077459_703742575180618_3955965302853713788_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=aEbtmerznYEQ7kNvgH4kmIc&_nc_ht=scontent.whatsapp.net&oh=01_Q5AaIO34fJTIPRU8ixjhHdHw_FyN6EXT7_nVDP7CoQ18DfF0&oe=66ED2CE8" target="_blank" />
+  <a aria-label="Chat on WhatsApp" href="https://wa.me/5561981624057"><img max-width="100%" height="30px" alt="Chat on WhatsApp" src="https://scontent.whatsapp.net/v/t39.8562-34/420077459_703742575180618_3955965302853713788_n.png?ccb=1-7&_nc_sid=73b08c&_nc_ohc=ceziJO9gXF4Q7kNvwH9Rdu2&_nc_oc=AdnVTObnxyrzEMSBD6zHvD7eYLMMPfjL5ql2L-LsMm1Tcdgs7pEbg9HD6pWL09sKRlOUqoOw7xfaz1pVFYkLiG0D&_nc_zt=3&_nc_ht=scontent.whatsapp.net&_nc_gid=k2czuX8iCpHohYDLE9o_GQ&oh=01_Q5Aa3QFAISyvoIHU4WfJhHJO53X8zifmCiUPcbZoV3H_r02CvA&oe=6940A268" target="_blank" />
 <a />
 </div>
 
