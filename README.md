@@ -15,8 +15,8 @@ Sempre tive muito interesse em sempre estar atento as novas tecnologias que surg
 - ❤ <b>Tendo um relacionamento sério com a: Programação</b>
 
 <br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="160em" width="49%" src="https://github-readme-stats.vercel.app/api?username=LincolnDevloper&theme=chartreuse-dark&show_icons=true&locale=pt-br&rank_icon=github" />
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
+  <img height="160em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=LincolnDevloper&theme=chartreuse-dark&show_icons=true&locale=pt-br&rank_icon=github" />
   <img height="160em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LincolnDevloper&theme=chartreuse-dark&show_icons=true&locale=pt-br&layout=compact" />
 </a>
 
